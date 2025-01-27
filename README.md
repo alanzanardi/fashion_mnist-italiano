@@ -1,4 +1,3 @@
-# fashion_mnist-italiano
 ## 💚🤍🩷  Fashion_MNIST - spiegazione in <font color='blue'>italiano</font> 💚🤍🩷
 ### Descrizione (in italiano):
 Questo notebook è scritto in italiano con l'obiettivo di rendere più accessibile l'analisi dei dati e il machine learning a coloro che parlano la nostra lingua, ma che potrebbero avere difficoltà a seguire contenuti in inglese. Ritengo importante supportare la comunità italofona con risorse nella propria lingua, per facilitare l'apprendimento e promuovere la partecipazione.<br>
