@@ -9,6 +9,7 @@ This notebook is written in Italian to make data analysis and machine learning m
 
 If you're looking for Italian-language content, I hope this work helps!
 
+
 ## Utilizzo
 Per utilizzare questo notebook, scaricate tutti i file presenti nella cartella "fashion_mnist" e posizionateli in una singola cartella sul vostro PC.
 
