@@ -10,7 +10,7 @@ This notebook is written in Italian to make data analysis and machine learning m
 If you're looking for Italian-language content, I hope this work helps!
 
 
-## Utilizzo
+## Utilizzo 🔧
 Per utilizzare questo notebook, scaricate tutti i file presenti nella cartella "fashion_mnist" e posizionateli in una singola cartella sul vostro PC.
 
 **Attenzione!** Il dataset del Fashion MNIST è piuttosto grande. Nel notebook, il dataset è fornito in tre file compressi in formato NumPy (NYP). È necessario estrarli e assicurarsi che siano tutti nella stessa cartella in cui si trova il notebook, insieme alle immagini di esempio e al file del modello pre-addestrato, che sarà utilizzato per un confronto con il modello addestrato nel notebook.
