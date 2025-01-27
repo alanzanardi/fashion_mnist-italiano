@@ -1,0 +1,24 @@
+bag
+Immagine campione: borsa
+Source: https://commons.wikimedia.org/wiki/File:Carpetbag.jpg
+Licenza: https://creativecommons.org/licenses/by-sa/3.0/
+
+coat
+Immagine campione: cappotto
+Source: https://commons.wikimedia.org/wiki/File:Polo_Ralph_Lauren_-_Sport_Coat.jpg
+Licenza: https://creativecommons.org/licenses/by/2.0/
+
+dress
+Immagine campione: vestito
+Source: https://commons.wikimedia.org/wiki/File:Dress_%283625%29_-_The_Noun_Project.svg
+Licenza: https://creativecommons.org/publicdomain/zero/1.0/
+
+t-shirt
+Immagine campione: maglietta
+Source: https://commons.wikimedia.org/wiki/File:NZ_All_Blacks_Mens_XV%27s_Shirt.jpg
+Licenza: https://creativecommons.org/licenses/by-sa/3.0/
+
+pullover
+Immagine campione: felpa
+Source: https://commons.wikimedia.org/wiki/File:Wiki_Loves_Monuments_2020_India_Contest_Embroidered_Sweatshirts_%28for_organizers%29.jpg
+Licenza: https://creativecommons.org/licenses/by-sa/4.0/
